@@ -1,0 +1,35 @@
+[
+  {
+    "title": "2000 - 2005",
+    "description": "Work together in real time with your team, clients, and stakeholders. Collaborate on documents, share ideas, and make decisions quickly. With our platform, you can streamline your workflow and increase productivity.",
+    "contentType": "text",
+    "contentText": "Collaborative Editing",
+    "contentBg": "linear-gradient(to_bottom_right,var(--black-500),var(--black-500))",
+    "textColor": "white"
+  },
+  {
+    "title": "2006 - 2012",
+    "description": "See changes as they happen. With our platform, you can track every modification in real time. No more confusion about the latest version of your project. Say goodbye to the chaos of version control and embrace the simplicity of real-time updates.",
+    "contentType": "image",
+    "contentImage": "/linear.webp",
+    "imageWidth": 300,
+    "imageHeight": 300,
+    "objectFit": "cover"
+  },
+  {
+    "title": "2013 - 2020",
+    "description": "Experience real-time updates and never stress about version control again. Our platform ensures that you're always working on the most recent version of your project, eliminating the need for constant manual updates. Stay in the loop, keep your team aligned, and maintain the flow of your work without any interruptions.",
+    "contentType": "text",
+    "contentText": "Version control",
+    "contentBg": "linear-gradient(to_bottom_right,var(--black-500),var(--black-500))",
+    "textColor": "white"
+  },
+  {
+    "title": "2021 - 2025",
+    "description": "Experience real-time updates and never stress about version control again. Our platform ensures that you're always working on the most recent version of your project, eliminating the need for constant manual updates. Stay in the loop, keep your team aligned, and maintain the flow of your work without any interruptions.",
+    "contentType": "text",
+    "contentText": "Running out of content",
+    "contentBg": "linear-gradient(to_bottom_right,var(--black-500),var(--black-500))",
+    "textColor": "white"
+  }
+]

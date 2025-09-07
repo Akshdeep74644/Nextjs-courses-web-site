@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "courseName": "Web Development Fundamentals",
+    "courseDescription": "Learn the basics of HTML, CSS, and JavaScript to build responsive websites.",
+    "courseDuration": "6 Weeks",
+    "buttonText": "Learn More"
+  },
+  {
+    "id": 2,
+    "courseName": "UI/UX Design Essentials",
+    "courseDescription": "Understand design principles, wireframing, and prototyping for modern user interfaces.",
+    "courseDuration": "4 Weeks",
+    "buttonText": "Learn More"
+  },
+  {
+    "id": 3,
+    "courseName": "React.js for Beginners",
+    "courseDescription": "Get started with React components, hooks, and state management for dynamic web apps.",
+    "courseDuration": "8 Weeks",
+    "buttonText": "Learn More"
+  },
+  {
+    "id": 4,
+    "courseName": "Data Science with Python",
+    "courseDescription": "Explore data analysis, visualization, and machine learning using Python libraries.",
+    "courseDuration": "10 Weeks",
+    "buttonText": "Learn More"
+  },
+  {
+    "id": 5,
+    "courseName": "Digital Marketing Mastery",
+    "courseDescription": "Master SEO, social media, and paid ads to boost brand visibility online.",
+    "courseDuration": "5 Weeks",
+    "buttonText": "Learn More"
+  }
+]
